@@ -1,0 +1,28 @@
+dataset:
+  name: CIFAR10
+  dataset_dir: ''
+  image_size: 32
+  n_channels: 3
+  n_classes: 10
+augmentation:
+  use_random_crop: True
+  use_random_horizontal_flip: True
+  use_cutout: False
+  use_random_erasing: False
+  use_dual_cutout: False
+  use_mixup: False
+  use_ricap: False
+  use_cutmix: False
+  use_label_smoothing: False
+
+train:
+  optimizer: admetas
+  base_lr: 0.05
+  output_dir: experiments/cifar10/
+
+optim:
+  admetas:
+    lamda: 0.9
+    beta: 0.2
+
+  
