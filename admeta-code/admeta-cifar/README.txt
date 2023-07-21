@@ -1,8 +1,8 @@
 Admeta for Image Classification (CIFAR-10, CIFAR-100)
 
-# Commands
+#run example
 
-./run_admeta.sh
+/config/cifar/pyramidnet_cifar10_admetar.yaml
 
 # Modification
 
