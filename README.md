@@ -19,12 +19,12 @@ https://proceedings.mlr.press/v202/chen23r/chen23r.pdf
 ## Quick introduction to this code
 As can be seen in the paper, we conduct experiments to test the performance of AdmetaR and AdmetaS on several tasks. 
 
-- For `Image Classification (cifar10 and cifar100)`, please go to admeta-code/admeta-cifar/pytorch_image_classification.
+- For `Image Classification (cifar10 and cifar100)`, please go to `admeta-code/admeta-cifar/pytorch_image_classification`.
   
 - For `GLUE benchmark`, please go to admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/text-classification.
   
-- For machine reading comprehension and named entity recognition, please go to admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/question-answering and admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/token-classification.
+- For `machine reading comprehension and named entity recognition`, please go to `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/question-answering` and `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/token-classification`.
   
-- For audio classification, please go to admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/audio-classification.
+- For `audio classification`, please go to `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/audio-classification`.
 
-The code of the optimizers are already integrated in admeta-code/admeta-cifar/pytorch_image_classification/optim/ and admeta-code/admeta-transformers/admeta-transformers/src/transformers/optimization.py
+The code of the optimizers are already integrated in `admeta-code/admeta-cifar/pytorch_image_classification/optim/` and `admeta-code/admeta-transformers/admeta-transformers/src/transformers/optimization.py`
