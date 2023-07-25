@@ -1,10 +1,10 @@
 # Bidirectional Looking with A Novel Double Exponential Moving Average to Adaptive and Non-adaptive Momentum Optimizers
 This project focuses on the optimizer framework Admeta, which has a bidirectional view with forward-looking and backward-looking. For practice, we implement our framework based on RAdam and SGDM and thus propose AdmetaR and AdmetaS. 
 
-## Installation via pip
-pip install admeta
+
 ## Paper link
 https://proceedings.mlr.press/v202/chen23r/chen23r.pdf
+
 ## How to cite this work
 ```text
 @inproceedings{chen2023bidirectional,
@@ -16,6 +16,7 @@ https://proceedings.mlr.press/v202/chen23r/chen23r.pdf
   organization={PMLR}
 }
 ```
+
 ## Quick introduction to this code
 As can be seen in the paper, we conduct experiments to test the performance of AdmetaR and AdmetaS on several tasks. 
 
