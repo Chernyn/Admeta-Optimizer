@@ -29,7 +29,8 @@ As can be seen in the paper, we conduct experiments to test the performance of A
 
 The code of the optimizers are already integrated in `admeta-code/admeta-cifar/pytorch_image_classification/optim/` and `admeta-code/admeta-transformers/admeta-transformers/src/transformers/optimization.py`
 
-##Algorithms
-        <p align='center'>
-        <img src="Images/algorithm 1.jpg" width="80%"> </p>
+## Algorithms
+<p align='center'>
+<img src="Images/algorithm 1.jpg" width="50%"><img src="Images/algorithm 2.jpg" width="50%"> 
+</p>
 
