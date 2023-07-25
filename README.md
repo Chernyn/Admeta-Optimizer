@@ -3,6 +3,8 @@ This project focuses on the optimizer framework Admeta, which has a bidirectiona
 
 ## Installation via pip
 
+## Paper link
+https://proceedings.mlr.press/v202/chen23r/chen23r.pdf
 ## How to cite this work
 ```text
 @inproceedings{chen2023bidirectional,
