@@ -21,7 +21,7 @@ As can be seen in the paper, we conduct experiments to test the performance of A
 
 - For `Image Classification (cifar10 and cifar100)`, please go to `admeta-code/admeta-cifar/pytorch_image_classification`.
   
-- For `GLUE benchmark`, please go to admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/text-classification.
+- For `GLUE benchmark`, please go to `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/text-classification`.
   
 - For `machine reading comprehension and named entity recognition`, please go to `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/question-answering` and `admeta-code/admeta-transformers/admeta-transformers/examples/pytorch/token-classification`.
   
